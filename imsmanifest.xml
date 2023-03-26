@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5Vnsnks9f8f_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">E-learning Game - healthy Food</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="E-learning_Game_-_healthy_Food_ORG">
+    <organization identifier="E-learning_Game_-_healthy_Food_ORG">
+      <title>E-learning Game - healthy Food</title>
+      <item identifier="SME_Drag_Drop_SCO" isvisible="true" identifierref="__5Vnsnks9f8f_course_id_RES">
+        <title>SME Drag Drop</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5Vnsnks9f8f_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Ir3LcL9ond_P_0_0_783_920.jpg" />
+      <file href="mobile/6muTgIhUtNY_P_92_0_407_500.png" />
+      <file href="mobile/6muTgIhUtNY_P_86_0_413_500.png" />
+      <file href="mobile/5XTlju8zaUF.png" />
+      <file href="mobile/6ZXLcqDIRXa.png" />
+      <file href="mobile/6elg7AULiaW_P_84_0_358_433.png" />
+      <file href="mobile/6elg7AULiaW.png" />
+      <file href="mobile/6TJILH07kw0_P_113_30_342_371.png" />
+      <file href="mobile/6TJILH07kw0.png" />
+      <file href="mobile/68mIkJlyUNQ_P_78_0_476_380.png" />
+      <file href="mobile/68mIkJlyUNQ.png" />
+      <file href="mobile/6ZJ458keI2m_P_53_64_366_356.png" />
+      <file href="mobile/65N2LrSFs7v.png" />
+      <file href="mobile/5duQC7Su1V9.jpg" />
+      <file href="story_content/6TOibUtMci4_44100_128_0.mp3" />
+      <file href="mobile/6Ir3LcL9ond_P_0_9_1380_884.jpg" />
+      <file href="mobile/6dtHSrCCblZ_P_134_0_1192_821.jpg" />
+      <file href="mobile/5lQ5DbJCd0X.jpg" />
+      <file href="mobile/6VJZmNQ1BEj_P_2_0_601_360.jpg" />
+      <file href="mobile/5lXTkPZIjAE.png" />
+      <file href="mobile/5cbMPqAiGNv.jpg" />
+      <file href="mobile/6byR5TqLOGx.png" />
+      <file href="mobile/5mYpblcI7Qk.png" />
+      <file href="mobile/6jnJGokJU4l.png" />
+      <file href="mobile/6l9DZej3cV1.png" />
+      <file href="mobile/6Ln14ivWmUG.png" />
+      <file href="mobile/5hGgu8kYHz4.png" />
+      <file href="mobile/5XTlju8zaUF_P_162_0_335_274.png" />
+      <file href="mobile/5mwBXcdFkFi.gif" />
+      <file href="mobile/6XueYLpwRU5.gif" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6r8bzY25XN5.jpg" />
+      <file href="mobile/Slide6R6jkTP2ydb.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5nKdK49qdIk.js" />
+      <file href="html5/data/js/6HsLlDe5JEC.js" />
+      <file href="html5/data/js/6mpEVCgWRP1.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
